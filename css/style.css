@@ -1,0 +1,24 @@
+body {
+  background-color: #d8d9cf;
+}
+
+h1 {
+  font-family: Impact;
+  font-size: 70px;
+  color: #0f2c59;
+}
+
+section p {
+  color: #1f1717;
+}
+
+button {
+  background-color: #dac0a3 !important;
+  transition: 0.5s all;
+}
+
+button:hover {
+  background-color: rgba(15, 44, 89, 0.5) !important;
+  color: #f4f2de !important;
+  box-shadow: 0 0 0 2px;
+}
